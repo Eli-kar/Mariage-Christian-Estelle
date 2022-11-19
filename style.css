@@ -15,7 +15,7 @@ body {
   justify-content: center;
   background-image: url("collage.png");
   background-position: center;
-  background-size: cover;
+  background-size: auto auto;
   color: white;
   font-family: sans-serif;
 }
