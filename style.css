@@ -14,7 +14,7 @@ body {
   justify-content: center;
   background-image: url("Images.jpg");
   background-position: center;
-  background-size: 50%;
+  background-size: 100%;
   color: white;
   font-family: cursive;
 }
@@ -81,7 +81,7 @@ body {
     justify-content: center;
     background-image: url("Images.jpg");
     background-position: center;
-    background-size: 50%;
+    background-size: 100%;
     color: white;
     font-family: cursive;
   }
