@@ -12,7 +12,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  background-image: url("Wedding.png");
+  background-image: url("p.png");
   background-position: center;
   background-size: 70%;
   color: white;
@@ -81,7 +81,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #0a0707a0;
-    background-image: url("Wedding.png");
+    background-image: url("p.png");
     background-repeat: no-repeat;
     background-size: contain;
     color: rgb(249, 247, 247);
