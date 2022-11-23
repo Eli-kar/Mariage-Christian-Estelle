@@ -50,7 +50,7 @@ const getCountdown = () => {
 
   if (tempsRestantEnMs <= 0) {
     clearInterval(countDownInterval);
-    bodyEl.style.backgroundImage = 'url("Happy wedding_.jpg")';
+    bodyEl.style.backgroundImage = 'url("Fin.png")';
     joursEl.textContent = 0;
     heuresEl.textContent = 0;
     minutesEl.textContent = 0;
